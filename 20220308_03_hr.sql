@@ -1,0 +1,10 @@
+SELECT USER
+FROM DUAL;
+--==>> HR
+
+-- 데이터타입 확인용 조회
+
+SELECT SALARY
+FROM EMPLOYEES;
+
+COMMIT;
